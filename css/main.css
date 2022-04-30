@@ -1,0 +1,42 @@
+/*DEVELOPER: Althesia Hylton, IS117-006, Spring, 2022 */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(228, 213, 255);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.7rem;
+}
+.navbar{
+    background-color: rgb(228, 213, 255);
+}
+.navbar-light{
+    color: rgb(51, 28, 95) ;
+}
+.jumbotron{
+    background-color: rgb(239, 236, 245) ;
+    
+}
+.btn{
+    background-color: rgb(156, 71, 234);
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.dont-pad-me {
+    padding-right: 0;
+}
+.title-pg{
+    font-size: 45px; 
+    text-decoration: underline;
+    color:rgb(51, 28, 95);
+}
+.nav-img{
+    height: 30px;
+}
